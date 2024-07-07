@@ -14,7 +14,7 @@ To run the Score Checker application, you need to have the following installed:
 1. Clone the repository:
 
     ```shell
-    git clone https://github.com/your-username/score-checker.git
+    git clone https://github.com/kitboh/score-checker.git
     ```
 
 2. Install the required dependencies:
