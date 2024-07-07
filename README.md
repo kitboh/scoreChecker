@@ -27,6 +27,6 @@ To run the Score Checker application, you need to have the following installed:
 
 To run the Score Checker application, execute the following command:
 
-    ```shell
+    ```
     python main.py
     ```
